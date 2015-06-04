@@ -1,0 +1,88 @@
+/*++++++Jumbotron Formatting++++++*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+/*To show containters, etc, to be deleted*/
+/*div {
+	border-style: solid;
+    border-color: red;
+}*/
+
+.jumbotron {
+	height: 300px; /*want to make the heigh on page smaller so that name is closer to top of page*/
+	/*background-image: url(../images/black_lozenge.png);*/
+	/*background-repeat: repeat;*/
+	margin-bottom: 0px;
+}
+
+.jumbotron h1 {
+	text-align: center;
+	color: black;
+	margin-top: 75px;
+}
+
+.jumbotron h2 {
+	text-align: center;
+	color: white;
+}
+
+.jumbotron p, a {
+	text-align: center;
+	color: white;
+}
+
+.container {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#titles {
+	background-color: #414555;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+#single {
+	text-align: center;
+}
+
+
+#six {
+	text-align: center;
+}
+
+img.me {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#skills {
+	font-size: 25px;
+}
+
+
+/*#work {
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+*/
+
+
+
+
+
+
+
+
+
